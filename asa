@@ -1,0 +1,74 @@
+[33mcommit 0306c9c427519d048653c33ddf287fe613033d84[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: TianxingWu <chi0chu319@gmail.com>
+Date:   Wed Nov 25 22:43:21 2020 +0800
+
+    Feature file midified
+
+[33mcommit 0b483593404525a3acd745cc44a126b5e35a4919[m
+Merge: 846ed56 809c584
+Author: tumeex <tupedd@gmail.com>
+Date:   Wed Nov 25 16:33:44 2020 +0200
+
+    Merge pull request #1 from tumeex/alt_branch
+    
+    Kivi change
+
+[33mcommit 809c5847eec0af08a2a8ccacadd36434f02a66ee[m
+Author: Tuomas Veikka Kiviranta <atuki001@edu.xamk.fi>
+Date:   Wed Nov 25 16:16:30 2020 +0200
+
+    Kivi change
+
+[33mcommit 846ed56636d708d272e80e20bff7d2687bde15ca[m
+Author: TianxingWu <chi0chu319@gmail.com>
+Date:   Wed Nov 25 22:08:37 2020 +0800
+
+    some changes that will casue conflicts
+
+[33mcommit ad5a25fb3e10c730af27475509b4300829ff7ba0[m
+Author: Tuomas Veikka Kiviranta <atuki001@edu.xamk.fi>
+Date:   Wed Nov 25 15:43:20 2020 +0200
+
+    TK change
+
+[33mcommit bb4f101440db28147c500be95d3dccd76d16628f[m
+Author: Tuomas Veikka Kiviranta <atuki001@edu.xamk.fi>
+Date:   Tue Nov 24 13:46:27 2020 +0200
+
+    Small update
+
+[33mcommit 5ce3be12a7bc3a0bae427230c1b5f699b66ead6f[m
+Author: Tuomas Veikka Kiviranta <atuki001@edu.xamk.fi>
+Date:   Fri Nov 13 13:29:48 2020 +0200
+
+    Better changes
+
+[33mcommit d490052b8dedbce4dec98c45cf3b4a72e1f3e24e[m
+Author: Tuomas Veikka Kiviranta <atuki001@edu.xamk.fi>
+Date:   Fri Nov 13 13:12:29 2020 +0200
+
+    New file
+
+[33mcommit 75e28e7d3ae88fbe79b562e533b6a0399c472843[m
+Author: Tuomas Veikka Kiviranta <atuki001@edu.xamk.fi>
+Date:   Fri Nov 13 12:52:59 2020 +0200
+
+    Some changes
+
+[33mcommit 1cf7c33e148c277f647564e486be236406f4f455[m
+Author: Tuomas Veikka Kiviranta <atuki001@edu.xamk.fi>
+Date:   Fri Nov 13 12:49:56 2020 +0200
+
+    New Class
+
+[33mcommit 4dcdb905f0d29093c06b08b8c604a3191342b8a5[m
+Author: Tuomas Veikka Kiviranta <atuki001@edu.xamk.fi>
+Date:   Fri Nov 13 12:44:58 2020 +0200
+
+    Add project files.
+
+[33mcommit c88e1b5157fe311814589b8cefba5bf6014580be[m
+Author: Tuomas Veikka Kiviranta <atuki001@edu.xamk.fi>
+Date:   Fri Nov 13 12:44:56 2020 +0200
+
+    Add .gitignore and .gitattributes.
