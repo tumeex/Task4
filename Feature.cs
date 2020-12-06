@@ -11,9 +11,9 @@ namespace Task2
         public static void Name()
         {
 
-            Console.WriteLine("Enter your accurate legal age: ");
-            int age = int.Parse(Console.ReadLine());
-            Console.WriteLine("You are "+age+" years young!");
+            Console.WriteLine("Enter your birth year: ");
+            int year = int.Parse(Console.ReadLine());
+            Console.WriteLine("You were born in "+year+" !");
         }
     }
 }
