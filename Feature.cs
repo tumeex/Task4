@@ -11,7 +11,7 @@ namespace Task2
         public static void Name()
         {
 
-            Console.WriteLine("Enter your birth year: ");
+            Console.WriteLine("Enter your mother's birth year: ");
             int year = int.Parse(Console.ReadLine());
             Console.WriteLine("You were born in "+year+" !");
         }
