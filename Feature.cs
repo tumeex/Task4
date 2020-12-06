@@ -11,9 +11,9 @@ namespace Task2
         public static void Name()
         {
 
-            Console.WriteLine("Enter your birth year: ");
+            Console.WriteLine("Everyone goes to Vanhalla: ");
             int year = int.Parse(Console.ReadLine());
-            Console.WriteLine("You were born in "+year+" !");
+            Console.WriteLine("Independece Day"+year+" !");
         }
     }
 }
