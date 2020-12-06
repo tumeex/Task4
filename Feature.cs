@@ -10,8 +10,8 @@ namespace Task2
     {
         public static void Name()
         {
+            Console.WriteLine("Enter your mother's birth year: ");
 
-            Console.WriteLine("Everyone goes to Vanhalla: ");
             int year = int.Parse(Console.ReadLine());
             Console.WriteLine("Independece Day"+year+" !");
         }
